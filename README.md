@@ -8,7 +8,7 @@ Real MySQL 8.0 Study
 [도서]
 Real MySQL 8.0 (개발자와 DBA를 위한 MySQL 실전 가이드 개정판) / 위키북스 / 백은빈, 이성욱 저
 
-![Real MySQL](.\\realmysql1.jpg)
+![Real MySQL](realmysql1.jpg)
 
 [구성]
 - 각 Chapter별 폴더를 생성
